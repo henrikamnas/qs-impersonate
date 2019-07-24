@@ -7,4 +7,4 @@ Simple impersonator function for qlik sense.
 3. run `node main.js`, the default browser should now open as you configured user.
 
 ## Disclaimer
-This is not indendet for production usage but simply for testing.
+This is not indendet for production use.
